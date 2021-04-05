@@ -1,0 +1,26 @@
+.product{
+    display: flex;
+    border: 1px solid lightgray;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    margin-right: 10px;
+}
+.product-name{
+    color: blue;
+    font-weight: 400;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.product p{
+    text-align: left;
+    margin-left: 20px;
+}
+ .add-btn{
+    background-color: yellow;
+    /* padding-left: 10px; */
+    width: 200px;
+    height: 30px;
+    margin: 0px auto;
+    border-radius: 5px;
+    cursor: pointer;
+}
